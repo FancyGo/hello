@@ -16,6 +16,7 @@ func t(h Hello) {
 }
 
 func main() {
+	fmt.Println("ver:1")
 	h := Hello{
 		a: make([]int, 0, 0),
 	}
